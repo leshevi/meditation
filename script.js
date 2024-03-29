@@ -328,7 +328,7 @@ const Composer = () => {
 const canvas = document.createElement("canvas")
 const gl = canvas.getContext("webgl2")
 
-document.title = "🤖"
+document.title = "🦊"
 document.body.innerHTML = ""
 document.body.appendChild(canvas)
 document.body.style = "margin:0;touch-action:none;overflow:hidden"
